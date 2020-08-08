@@ -1,0 +1,39 @@
+body{
+background-color: black;
+border: chartreuse;
+}
+h1{
+font-size: larger;
+font-weight: bolder;
+color: cyan;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+text-decoration: darkorange;
+text-shadow: -2px 2px 2px red;
+}
+marquee{
+color: darkolivegreen;
+background-color: lightgreen;
+font-size: larger;
+font-weight: bolder;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+text-decoration: darkorange;
+text-shadow: -2px 2px 2px yellow;
+}
+h2{
+    color: chartreuse;
+
+    font-size: larger;
+    font-weight: bolder;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-decoration: darkorange;
+    text-shadow: -2px 2px 2px yellow;
+}
+img:hover img{
+opacity: 2px;
+color: white;
+}
